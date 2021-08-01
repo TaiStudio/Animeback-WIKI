@@ -1,3 +1,7 @@
+---
+sidebar_label: 'Ajouter au TRAY!'
+sidebar_position: 3
+---
 
 ### Ajouter au menu Tray
 ```js
