@@ -17,7 +17,7 @@ module.exports = {
       title: 'Animeback WIKI',
       logo: {
         alt: 'Animeback WIKI Logo',
-        src: 'img/logo.svg',
+        src: 'img/animeback.png',
       },
       items: [
         {
