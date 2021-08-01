@@ -1,3 +1,10 @@
+---
+id: extension-window
+title: Cree une fenêtre
+description: Create window
+slug: /extension/window
+sidebar_position: 8
+---
 
 ### Cree une fenêtre
 vous pouvez crée des fenêtre personnalise pour votre menu options ou autre !

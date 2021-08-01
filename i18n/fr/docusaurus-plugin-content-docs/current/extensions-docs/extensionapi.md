@@ -1,3 +1,10 @@
+---
+id: extension-api
+title: API
+description: Extension api
+slug: /extension/api
+sidebar_position: 6
+---
 
 ### ExtensionAPI
 ```js

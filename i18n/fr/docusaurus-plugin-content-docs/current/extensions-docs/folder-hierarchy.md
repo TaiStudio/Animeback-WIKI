@@ -1,3 +1,10 @@
+---
+id: extension-hierarchy
+title: Hiérarchie du dossier
+description: Extension hierarchy
+slug: /extension/hierarchy
+sidebar_position: 2
+---
 
 ### Hiérarchie du dossier de l'extension
 

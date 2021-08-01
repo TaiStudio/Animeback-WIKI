@@ -1,3 +1,10 @@
+---
+id: extension-main-file
+title: Main.js
+description: Extension main file
+slug: /extension/hierarchy
+sidebar_position: 4
+---
 
 ### fichier main.js
 dans votre fichier `main.js` vous devez **obligatoirement** avoir la fonction main 

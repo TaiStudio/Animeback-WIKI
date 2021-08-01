@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Ajouter au TRAY!'
-sidebar_position: 3
+sidebar_position: 9
 ---
 
 ### Ajouter au menu Tray
