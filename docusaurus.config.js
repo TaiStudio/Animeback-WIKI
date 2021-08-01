@@ -12,6 +12,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'TaiStudio', // Usually your GitHub org/user name.
   projectName: 'Animeback', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'fr'],
+  },
   themeConfig: {
     navbar: {
       title: 'Animeback WIKI',
@@ -31,6 +35,9 @@ module.exports = {
           href: 'https://github.com/LeGitHubDeTai/AnimeBack',
           label: 'GitHub',
           position: 'right',
+        },
+        {
+          type: 'localeDropdown',
         },
       ],
     },
