@@ -98,7 +98,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
             'https://github.com/TaiStudio/Animeback-WIKI/tree/main/',
         },
