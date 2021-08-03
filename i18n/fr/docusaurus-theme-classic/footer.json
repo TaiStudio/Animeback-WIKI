@@ -1,0 +1,10 @@
+{
+    "title": {
+      "message": "Animeback WIKI",
+      "description": "The title in the navbar"
+    },
+    "item.label.Tutorial": {
+      "message": "Didacticiel",
+      "description": "The title in the navbar"
+    }
+  }
