@@ -2,7 +2,7 @@
 id: extension-main-file
 title: Main.js
 description: Extension main file
-slug: /extension/hierarchy
+slug: /extension/main-file
 sidebar_position: 4
 ---
 

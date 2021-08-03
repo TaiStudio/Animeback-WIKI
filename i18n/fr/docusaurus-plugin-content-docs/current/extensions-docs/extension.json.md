@@ -2,7 +2,7 @@
 id: extension-json-file
 title: Extension.json
 description: Extension json file
-slug: /extension/hierarchy
+slug: /extension/extension-json
 sidebar_position: 3
 ---
 
