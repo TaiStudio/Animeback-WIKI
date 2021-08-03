@@ -1,12 +1,12 @@
 ---
 id: extension-window
-title: Cree une fenêtre
+title: Créer une fenêtre
 description: Create window
 slug: /extension/window
 sidebar_position: 8
 ---
 
-### Cree une fenêtre
+### Créer une fenêtre
 vous pouvez crée des fenêtre personnalise pour votre menu options ou autre !
 ```js
 ExtensionAPI["ExtensionKit"].createWindow("Fichier HTML", "URL", "width", "height", "frame", "autoHideMenuBar", "resize", "nodeIntegration", "skipTaskbar", "iconFile", "alwaysOnTop", "BackgroundColor", "transparent", "Pos");

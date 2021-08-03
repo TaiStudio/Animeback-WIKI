@@ -1,3 +1,10 @@
+---
+id: extension-window
+title: Create window
+description: Create window
+slug: /extension/window
+sidebar_position: 8
+---
 
 ### Create a window
 you can create custom windows for your options menu or other!

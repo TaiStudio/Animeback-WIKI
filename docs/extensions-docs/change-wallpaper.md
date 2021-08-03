@@ -1,3 +1,10 @@
+---
+id: extension-change-wallpaper
+title: Change Wallpapers
+description: Change wallpaper
+slug: /extension/change-wallpaper
+sidebar_position: 10
+---
 
 ### Change wallpaper
 ```js
