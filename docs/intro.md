@@ -1,35 +1,18 @@
 ---
+id: intro
+title: Intro
+description: Intro
+slug: intro
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# ![EN-FLAG](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/257/flag-united-kingdom_1f1ec-1f1e7.png) ENGLISH
+Welcome to the Extensions page!
 
-Let's discover **Docusaurus in less than 5 minutes**.
+you have several extensions available in the software:
+- Clock
+- GetFPS
 
-## Getting Started
+you can create your own extensions
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+## How to do ?
