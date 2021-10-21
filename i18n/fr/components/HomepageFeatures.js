@@ -5,16 +5,16 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Facile à utiliser',
-    Svg: require('../../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../../static/img/pulzze.svg').default,
     description: (
       <>
-        Animebacka été conçu dès le départ pour être facilement installé et utilisé pour que votre site Web soit opérationnel rapidement.
+        Animeback a été conçu dès le départ pour être facilement installé et utilisé pour que votre site Web soit opérationnel rapidement.
       </>
     ),
   },
   {
     title: 'Changement rapide',
-    Svg: require('../../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../../static/img/fast.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Customizable',
-    Svg: require('../../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../../static/img/custom.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
